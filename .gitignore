@@ -1,0 +1,28 @@
+# Downloaded and generated data
+/data/
+
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter checkpoints (keep actual notebooks)
+.ipynb_checkpoints/
+
+# Local editor and Windows files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

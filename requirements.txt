@@ -1,0 +1,12 @@
+pandas
+numpy
+pyarrow
+duckdb
+matplotlib
+statsmodels
+scikit-learn
+SQLAlchemy
+psycopg[binary]
+python-dotenv
+jupyterlab
+ipykernel
