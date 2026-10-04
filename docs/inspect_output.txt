@@ -1,0 +1,124 @@
+PriceCatcher inspection: 2026-09
+Local-file inspection; no cleaning applied.
+
+--- prices: 1,390,113 rows ---
+Source file: pricecatcher_2026-09.parquet
+                dtype  null_count  distinct_non_null
+date           object           0                 23
+premise_code    int64           0               2138
+item_code       int64           0                343
+price         float64           0               2280
+
+First five rows:
+      date  premise_code  item_code  price
+2026-09-01             2          1   11.0
+2026-09-01             2         47   10.0
+2026-09-01             2         55   10.0
+2026-09-01             2         70   24.0
+2026-09-01             2         88   10.0
+
+--- items: 797 rows ---
+Source file: lookup_item.parquet
+               dtype  null_count  distinct_non_null
+item_code      int64           0                797
+item             str           1                740
+unit             str           1                155
+item_group       str           1                  8
+item_category    str           1                 59
+
+First five rows:
+ item_code                                                                item unit     item_group item_category
+        -1                                                                 NaN  NaN            NaN           NaN
+         1                                              AYAM BERSIH - STANDARD  1kg BARANGAN SEGAR          AYAM
+         2                                                 AYAM BERSIH - SUPER  1kg BARANGAN SEGAR          AYAM
+         3                                                          AYAM HIDUP  1kg BARANGAN SEGAR          AYAM
+         9 DAGING KAMBING BEBIRI IMPORT BERTULANG (MUTTON) (AUSTRALIA - KOTAK)  1kg BARANGAN SEGAR        DAGING
+
+--- premises: 3,916 rows ---
+Source file: lookup_premise.parquet
+              dtype  null_count  distinct_non_null
+premise_code  int64           0               3916
+premise         str           0               3873
+address         str           0               3880
+premise_type    str           1                 13
+state           str           1                 16
+district        str           1                177
+
+First five rows:
+ premise_code                           premise                                                  address             premise_type          state      district
+           -1                   Unknown Premise                                          Unknown Address                      NaN            NaN           NaN
+            2                  PASAR BESAR IPOH          JALAN LAKSAMANA,TAMAN JUBILEE,30300 IPOH, PERAK             Pasar Basah           Perak         Kinta
+            3                  JUSCO AYER KEROH LOT 4991,MUKIM BUKIT BARU,75450 LEBUH AYER KEROH, MELAKA Pasar Raya / Supermarket         Melaka Melaka Tengah
+            6 KEDAI RUNCIT TAFAZ MAJU PRESINT 9              NO.5, JALAN P9B/1,PRESINT 9,62250 PUTRAJAYA             Kedai Runcit W.P. Putrajaya  Wp Putrajaya
+            7  KEDAI RUNCIT SYAZ MAJU PRESINT 9              NO.5, JALAN P9E/1,PRESINT 9,62250 PUTRAJAYA             Kedai Runcit W.P. Putrajaya  Wp Putrajaya
+
+--- items: lookup checks ---
+Missing lookup keys: 0
+Repeated keys beyond first: 0
+Price records using -1: 0
+Matched records: 1,370,533
+Unmatched records: 19,580
+Matched percentage: 98.59%
+Unmatched codes: [2023, 2035, 2048, 2053, 2057, 2059, 2089, 2090, 2091, 2092, 2093, 2094, 2095, 2096]
+
+--- premises: lookup checks ---
+Missing lookup keys: 0
+Repeated keys beyond first: 0
+Price records using -1: 0
+Matched records: 1,390,113
+Unmatched records: 0
+Matched percentage: 100.00%
+Unmatched codes: []
+
+--- Date coverage ---
+Earliest date: 2026-09-01 00:00:00
+Latest date: 2026-09-24 00:00:00
+Missing date values: 0
+Distinct observed dates: 23
+Expected dates without records: ['2026-09-16', '2026-09-25', '2026-09-26', '2026-09-27', '2026-09-28', '2026-09-29', '2026-09-30']
+Dates outside inspection month: []
+
+Records per date:
+2026-09-01     34984
+2026-09-02     38541
+2026-09-03     38767
+2026-09-04     39108
+2026-09-05     39225
+2026-09-06     39636
+2026-09-07    192347
+2026-09-08     38724
+2026-09-09     39384
+2026-09-10     39735
+2026-09-11     40000
+2026-09-12     40037
+2026-09-13     40480
+2026-09-14    194628
+2026-09-15     39399
+2026-09-16         0
+2026-09-17     39582
+2026-09-18     39859
+2026-09-19     39958
+2026-09-20     40553
+2026-09-21    216323
+2026-09-22     39294
+2026-09-23     39593
+2026-09-24     39956
+2026-09-25         0
+2026-09-26         0
+2026-09-27         0
+2026-09-28         0
+2026-09-29         0
+2026-09-30         0
+Freq: D
+Total records within inspection month: 1390113
+
+--- Price and duplicate checks ---
+min          0.01
+p1           1.70
+median       8.95
+p99         48.00
+max       3900.00
+Zero prices: 0
+Negative prices: 0
+Exact duplicate rows beyond first: 0
+Repeated date-premise-item combinations beyond first: 0
