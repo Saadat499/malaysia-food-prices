@@ -255,3 +255,191 @@ SELECT
            OR retailer_types_compared < 2
     ) AS coverage_failures
 FROM public.v_monthly_retailer_prices;
+
+-- Festival comparisons using premises observed in both windows.
+-- Supporting December 2022 observations are included where needed.
+
+CREATE OR REPLACE VIEW public.v_festival_price_comparison AS
+WITH window_observations AS (
+    SELECT
+        w.year,
+        w.festival,
+        w.window_name,
+        o.item_code,
+        p.state,
+        o.premise_code,
+        o.date,
+        o.price
+    FROM public.festival_windows AS w
+    JOIN public.price_observations AS o
+        ON o.date BETWEEN w.start_date AND w.end_date
+    JOIN public.premises AS p
+        ON o.premise_code = p.premise_code
+    WHERE p.state IS NOT NULL
+),
+shop_prices AS (
+    SELECT
+        year,
+        festival,
+        window_name,
+        item_code,
+        state,
+        premise_code,
+        (
+            PERCENTILE_CONT(0.5) WITHIN GROUP (
+                ORDER BY price::double precision
+            )
+        )::numeric AS median_price,
+        ARRAY_AGG(DISTINCT date) AS observed_dates
+    FROM window_observations
+    GROUP BY
+        year, festival, window_name,
+        item_code, state, premise_code
+),
+matched AS (
+    SELECT
+        t.year,
+        t.festival,
+        t.window_name AS target_window,
+        t.item_code,
+        t.state,
+        t.premise_code,
+        r.median_price AS reference_price,
+        t.median_price AS target_price,
+        r.observed_dates AS reference_dates,
+        t.observed_dates AS target_dates,
+        100.0 * (t.median_price - r.median_price)
+            / NULLIF(r.median_price, 0) AS shop_change_pct
+    FROM shop_prices AS t
+    JOIN shop_prices AS r
+        ON t.year = r.year
+       AND t.festival = r.festival
+       AND t.item_code = r.item_code
+       AND t.state = r.state
+       AND t.premise_code = r.premise_code
+       AND r.window_name = 'reference'
+    WHERE t.window_name <> 'reference'
+),
+matched_dates AS (
+    SELECT
+        year, festival, target_window, item_code, state,
+        'reference' AS period,
+        UNNEST(reference_dates) AS observed_date
+    FROM matched
+
+    UNION ALL
+
+    SELECT
+        year, festival, target_window, item_code, state,
+        'target' AS period,
+        UNNEST(target_dates) AS observed_date
+    FROM matched
+),
+date_coverage AS (
+    SELECT
+        year,
+        festival,
+        target_window,
+        item_code,
+        state,
+        COUNT(DISTINCT observed_date) FILTER (
+            WHERE period = 'reference'
+        ) AS matched_reference_days,
+        COUNT(DISTINCT observed_date) FILTER (
+            WHERE period = 'target'
+        ) AS matched_target_days
+    FROM matched_dates
+    GROUP BY
+        year, festival, target_window, item_code, state
+),
+price_summary AS (
+    SELECT
+        year,
+        festival,
+        target_window,
+        item_code,
+        state,
+        COUNT(*) AS matched_premises,
+        COUNT(*) FILTER (
+            WHERE target_price > reference_price
+        ) AS premises_with_increases,
+        COUNT(*) FILTER (
+            WHERE target_price < reference_price
+        ) AS premises_with_decreases,
+        COUNT(*) FILTER (
+            WHERE target_price = reference_price
+        ) AS premises_unchanged,
+        (
+            PERCENTILE_CONT(0.5) WITHIN GROUP (
+                ORDER BY reference_price::double precision
+            )
+        )::numeric AS median_shop_reference_price,
+        (
+            PERCENTILE_CONT(0.5) WITHIN GROUP (
+                ORDER BY target_price::double precision
+            )
+        )::numeric AS median_shop_target_price,
+        (
+            PERCENTILE_CONT(0.5) WITHIN GROUP (
+                ORDER BY shop_change_pct::double precision
+            )
+        )::numeric AS median_shop_change_pct
+    FROM matched
+    GROUP BY
+        year, festival, target_window, item_code, state
+)
+SELECT
+    s.year,
+    s.festival,
+    s.target_window,
+    s.item_code,
+    i.item,
+    i.unit,
+    s.state,
+    s.matched_premises,
+    d.matched_reference_days,
+    d.matched_target_days,
+    s.premises_with_increases,
+    s.premises_with_decreases,
+    s.premises_unchanged,
+    ROUND(
+        100.0 * s.premises_with_increases
+        / NULLIF(s.matched_premises, 0),
+        2
+    ) AS pct_premises_with_increases,
+    ROUND(
+        s.median_shop_reference_price, 2
+    ) AS median_shop_reference_price,
+    ROUND(
+        s.median_shop_target_price, 2
+    ) AS median_shop_target_price,
+    ROUND(
+        s.median_shop_change_pct, 2
+    ) AS median_shop_change_pct
+FROM price_summary AS s
+JOIN date_coverage AS d
+    USING (year, festival, target_window, item_code, state)
+JOIN public.items AS i
+    ON s.item_code = i.item_code
+WHERE s.matched_premises >= 5
+  AND d.matched_reference_days >= 4
+  AND d.matched_target_days >= 4
+ORDER BY
+    s.year, s.festival, s.target_window, s.item_code, s.state;
+
+-- Verify the festival view.
+SELECT
+    COUNT(*) AS comparisons,
+    COUNT(DISTINCT year) AS years,
+    COUNT(DISTINCT festival) AS festival_groups,
+    COUNT(*) FILTER (
+        WHERE matched_premises < 5
+           OR matched_reference_days < 4
+           OR matched_target_days < 4
+    ) AS coverage_failures,
+    COUNT(*) FILTER (
+        WHERE premises_with_increases
+            + premises_with_decreases
+            + premises_unchanged <> matched_premises
+    ) AS count_mismatches
+FROM public.v_festival_price_comparison;
