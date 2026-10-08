@@ -1,0 +1,958 @@
+festival,target_window,item_code,state,change_pct_2023,change_pct_2024,change_pct_2025,pattern,item,unit
+chinese_new_year,after,1,Johor,0.0,0.0,6.78,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Kedah,0.0,0.0,5.26,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Kelantan,0.0,0.0,8.19,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Melaka,0.0,-0.3,5.19,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Negeri Sembilan,0.0,0.0,6.25,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Pahang,0.0,-0.66,8.05,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Perak,0.0,0.0,5.07,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Perlis,0.0,-1.01,5.57,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Pulau Pinang,0.0,0.0,3.62,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Sarawak,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Selangor,0.0,0.0,5.83,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,Terengganu,0.0,0.0,5.54,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,W.P. Kuala Lumpur,0.0,0.0,5.46,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,1,W.P. Putrajaya,0.0,-2.57,6.18,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,after,94,Johor,0.0,-10.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Kedah,-7.45,-5.27,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Kelantan,-8.11,-2.67,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Negeri Sembilan,-4.67,-5.64,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Pahang,0.0,-4.76,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Perak,-10.56,-4.67,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Perlis,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Pulau Pinang,0.0,-4.04,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Sabah,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Sarawak,12.07,1.14,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Selangor,-6.9,-5.34,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,Terengganu,-10.0,-2.04,5.9,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,94,W.P. Kuala Lumpur,0.0,-5.41,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,after,103,Johor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Kedah,0.0,0.0,3.33,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Kelantan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Perak,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Pulau Pinang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Selangor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,Terengganu,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,103,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,after,114,Johor,14.31,-4.0,2.71,mixed,TOMATO,1kg
+chinese_new_year,after,114,Kedah,17.71,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Kelantan,14.31,-5.88,5.62,mixed,TOMATO,1kg
+chinese_new_year,after,114,Melaka,12.5,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Negeri Sembilan,8.58,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Pahang,14.31,-4.89,3.47,mixed,TOMATO,1kg
+chinese_new_year,after,114,Perak,12.52,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Perlis,4.83,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Pulau Pinang,12.5,-1.11,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Sabah,0.0,0.0,5.88,mixed,TOMATO,1kg
+chinese_new_year,after,114,Sarawak,0.0,0.0,44.72,mixed,TOMATO,1kg
+chinese_new_year,after,114,Selangor,10.0,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,114,Terengganu,20.0,0.0,12.86,mixed,TOMATO,1kg
+chinese_new_year,after,114,W.P. Kuala Lumpur,9.72,0.0,1.7,mixed,TOMATO,1kg
+chinese_new_year,after,114,W.P. Putrajaya,8.47,0.0,0.0,mixed,TOMATO,1kg
+chinese_new_year,after,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Perak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,129,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,after,1111,Johor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Kedah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Kelantan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Melaka,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Pahang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Perak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Pulau Pinang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Sabah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Selangor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,Terengganu,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1111,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,after,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Kelantan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Pahang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Perak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Perlis,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Selangor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,Terengganu,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,W.P. Labuan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1131,W.P. Putrajaya,0.0,-3.13,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,after,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Kedah,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Kelantan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Melaka,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Pahang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Perak,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Pulau Pinang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Selangor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1431,Terengganu,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,after,1555,Johor,2.67,2.94,2.78,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Kedah,0.0,2.11,3.51,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Kelantan,3.33,1.31,3.03,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Melaka,0.0,2.94,2.7,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Negeri Sembilan,0.0,2.79,6.67,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Pahang,2.78,5.41,1.29,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Perak,0.0,0.38,5.01,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Perlis,0.0,2.25,2.94,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Pulau Pinang,0.0,0.0,5.7,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Sabah,0.0,0.0,-1.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Selangor,2.7,0.32,2.86,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,Terengganu,2.78,3.24,5.54,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,W.P. Kuala Lumpur,0.0,0.0,1.27,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1555,W.P. Putrajaya,-2.63,-1.24,3.03,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,after,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Kedah,0.0,-2.96,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Perak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,Terengganu,0.0,-1.96,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,after,1564,W.P. Putrajaya,-1.67,-5.21,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1,Johor,0.0,-1.11,3.62,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Kedah,0.0,0.0,1.44,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Kelantan,0.0,0.0,3.62,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Melaka,0.0,0.0,3.71,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Negeri Sembilan,0.0,-1.24,3.03,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Pahang,0.0,-0.29,3.8,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Perak,0.0,0.0,3.17,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Perlis,0.0,0.0,4.46,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Pulau Pinang,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Sarawak,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Selangor,0.0,-0.6,3.14,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,Terengganu,0.0,-1.46,3.41,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,W.P. Kuala Lumpur,0.0,0.0,2.38,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,1,W.P. Putrajaya,0.0,-2.71,4.05,mixed,AYAM BERSIH - STANDARD,1kg
+chinese_new_year,lead_up,94,Johor,0.0,-2.58,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Kedah,-7.19,-8.52,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Kelantan,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Negeri Sembilan,-6.91,-3.43,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Pahang,-6.25,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Perak,-10.0,-5.02,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Perlis,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Pulau Pinang,0.0,-6.07,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Sabah,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Sarawak,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Selangor,-3.85,-3.73,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,Terengganu,-8.4,0.0,11.11,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,94,W.P. Kuala Lumpur,-3.85,-4.08,0.0,mixed,CILI MERAH - MINYAK,1kg
+chinese_new_year,lead_up,103,Johor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Kedah,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Kelantan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Perak,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Pulau Pinang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Selangor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,Terengganu,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,103,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+chinese_new_year,lead_up,114,Johor,12.52,-7.75,36.43,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Kedah,16.32,0.0,38.07,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Kelantan,14.49,-7.14,33.33,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Melaka,9.62,-5.94,33.33,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Negeri Sembilan,9.87,-6.02,30.0,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Pahang,11.24,-6.25,32.86,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Perak,12.5,-4.7,33.33,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Perlis,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+chinese_new_year,lead_up,114,Pulau Pinang,12.5,-5.56,28.76,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Sabah,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+chinese_new_year,lead_up,114,Sarawak,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+chinese_new_year,lead_up,114,Selangor,10.37,-5.88,26.0,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,Terengganu,15.09,-5.89,44.93,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,W.P. Kuala Lumpur,6.6,0.0,29.07,mixed,TOMATO,1kg
+chinese_new_year,lead_up,114,W.P. Putrajaya,0.09,0.0,24.64,mixed,TOMATO,1kg
+chinese_new_year,lead_up,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Perak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,129,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+chinese_new_year,lead_up,918,Johor,0.0,0.0,0.0,zero_all_three,MINYAK MASAK PAKET (PELBAGAI JENAMA),1kg
+chinese_new_year,lead_up,918,Pahang,0.0,0.0,0.0,zero_all_three,MINYAK MASAK PAKET (PELBAGAI JENAMA),1kg
+chinese_new_year,lead_up,1111,Johor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Kedah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Kelantan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Melaka,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Pahang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Perak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Pulau Pinang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Sabah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Selangor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,Terengganu,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1111,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+chinese_new_year,lead_up,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Kelantan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Pahang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Perak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Perlis,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Selangor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,Terengganu,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,W.P. Labuan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1131,W.P. Putrajaya,0.0,0.0,-2.12,mixed,UBI KENTANG IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Kedah,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Kelantan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Melaka,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Pahang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Perak,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Pulau Pinang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Selangor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1431,Terengganu,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+chinese_new_year,lead_up,1555,Johor,0.0,0.0,1.31,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Kedah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Kelantan,3.3,0.0,2.71,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Melaka,0.0,2.78,2.96,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Negeri Sembilan,0.7,0.0,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Pahang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Perak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Perlis,3.56,4.85,1.72,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Selangor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,Terengganu,0.0,0.0,2.3,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1555,W.P. Putrajaya,-0.63,0.0,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+chinese_new_year,lead_up,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Melaka,-1.47,0.0,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Pahang,-1.42,0.0,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Perak,0.0,0.0,-2.08,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+chinese_new_year,lead_up,1564,W.P. Putrajaya,-3.85,0.0,-6.32,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1,Johor,-4.26,0.0,7.61,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Kedah,-1.07,0.0,4.12,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Kelantan,-4.26,0.0,7.39,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Melaka,-3.19,-1.02,7.77,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Negeri Sembilan,-3.75,0.0,6.36,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Pahang,-4.55,0.0,7.8,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Perak,-3.41,1.82,5.2,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Perlis,-3.07,1.19,5.18,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Pulau Pinang,0.0,0.0,4.3,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Sarawak,10.97,0.0,0.0,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Selangor,-3.75,0.0,5.26,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,Terengganu,-4.6,1.46,7.27,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,W.P. Kuala Lumpur,-3.47,0.0,5.61,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,1,W.P. Putrajaya,-3.62,1.14,5.61,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,after,94,Johor,30.79,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Kedah,46.19,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Kelantan,12.92,-5.56,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Negeri Sembilan,32.58,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Pahang,36.4,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Perak,52.47,-6.47,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Perlis,3.16,0.0,-0.28,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Pulau Pinang,42.02,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Sabah,-2.5,-10.53,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Sarawak,-12.0,0.0,-7.06,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Selangor,29.91,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,Terengganu,41.2,-3.25,-0.24,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,94,W.P. Kuala Lumpur,21.44,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,after,103,Johor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+deepavali,after,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+deepavali,after,114,Johor,-4.84,-15.04,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Kedah,0.0,-12.68,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Kelantan,0.0,-12.5,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Melaka,0.0,-16.38,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Negeri Sembilan,0.0,-16.69,-4.36,mixed,TOMATO,1kg
+deepavali,after,114,Pahang,-2.33,-16.67,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Perak,-4.01,-12.5,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Perlis,0.0,-4.17,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Pulau Pinang,0.0,-8.39,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Sabah,0.0,-7.18,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Sarawak,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+deepavali,after,114,Selangor,-4.36,-12.69,0.0,mixed,TOMATO,1kg
+deepavali,after,114,Terengganu,-6.49,-14.31,0.0,mixed,TOMATO,1kg
+deepavali,after,114,W.P. Kuala Lumpur,0.0,-9.12,0.0,mixed,TOMATO,1kg
+deepavali,after,114,W.P. Labuan,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+deepavali,after,114,W.P. Putrajaya,-9.32,-16.67,0.0,mixed,TOMATO,1kg
+deepavali,after,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Perak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,129,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,after,904,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BERAS SUPER CAP RAMBUTAN 5% (IMPORT),10 kg
+deepavali,after,917,Johor,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+deepavali,after,917,Pahang,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+deepavali,after,918,Johor,0.0,0.0,0.0,zero_all_three,MINYAK MASAK PAKET (PELBAGAI JENAMA),1kg
+deepavali,after,1111,Johor,0.0,0.0,-6.67,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Kedah,0.0,0.0,-8.51,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Kelantan,0.0,0.0,-5.64,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Melaka,0.0,0.0,-6.79,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Negeri Sembilan,0.0,0.0,-5.45,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Pahang,0.0,0.0,-5.19,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Perak,0.0,0.0,-7.05,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Pulau Pinang,0.0,0.0,-6.53,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Sabah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Selangor,0.0,0.0,-4.44,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,Terengganu,0.0,0.0,-4.86,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1111,W.P. Kuala Lumpur,0.0,0.0,-3.76,mixed,TELUR AYAM GRED C,30 biji
+deepavali,after,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Kelantan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Pahang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Perak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Perlis,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Selangor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,Terengganu,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,W.P. Labuan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1131,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,after,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+deepavali,after,1555,Johor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Kedah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Kelantan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Melaka,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Pahang,0.0,0.0,-2.17,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Perak,3.08,0.0,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Perlis,0.0,-3.12,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Selangor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,Terengganu,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1555,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,after,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Perak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1564,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,after,1589,Johor,0.0,0.0,0.0,zero_all_three,GULA PUTIH BERTAPIS KASAR (PELBAGAI JENAMA),1kg
+deepavali,lead_up,1,Johor,-8.61,1.05,3.03,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Kedah,-4.79,0.0,1.74,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Kelantan,-9.77,1.16,3.64,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Melaka,-7.51,0.0,2.5,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Negeri Sembilan,-8.52,0.0,3.58,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Pahang,-9.42,1.76,3.75,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Perak,-7.51,1.77,2.29,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Perlis,-7.72,1.49,0.0,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Pulau Pinang,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Sarawak,10.2,0.0,0.0,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Selangor,-7.79,1.19,2.47,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,Terengganu,-11.12,1.85,2.27,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,W.P. Kuala Lumpur,-7.51,1.14,3.12,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,1,W.P. Putrajaya,-7.27,2.05,2.57,mixed,AYAM BERSIH - STANDARD,1kg
+deepavali,lead_up,94,Johor,3.13,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Kedah,5.31,-5.01,3.57,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Kelantan,0.0,-2.78,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Negeri Sembilan,7.69,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Pahang,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Perak,11.12,-4.51,2.73,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Perlis,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Pulau Pinang,7.74,-4.5,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Sabah,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Sarawak,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Selangor,0.0,-0.23,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,Terengganu,5.14,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,94,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+deepavali,lead_up,103,Johor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+deepavali,lead_up,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+deepavali,lead_up,114,Johor,0.0,-7.14,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Kedah,0.0,-5.01,0.48,mixed,TOMATO,1kg
+deepavali,lead_up,114,Kelantan,0.0,-6.51,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Melaka,0.0,-6.78,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Negeri Sembilan,0.0,-10.0,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Pahang,-3.5,-10.35,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Perak,0.0,-9.93,6.01,mixed,TOMATO,1kg
+deepavali,lead_up,114,Perlis,0.0,-5.56,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Pulau Pinang,-1.0,-1.19,0.0,mixed,TOMATO,1kg
+deepavali,lead_up,114,Sabah,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+deepavali,lead_up,114,Sarawak,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+deepavali,lead_up,114,Selangor,-2.75,-8.39,1.5,mixed,TOMATO,1kg
+deepavali,lead_up,114,Terengganu,-4.17,0.0,2.16,mixed,TOMATO,1kg
+deepavali,lead_up,114,W.P. Kuala Lumpur,0.0,-3.17,5.28,mixed,TOMATO,1kg
+deepavali,lead_up,114,W.P. Labuan,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+deepavali,lead_up,114,W.P. Putrajaya,0.0,-4.46,2.57,mixed,TOMATO,1kg
+deepavali,lead_up,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Perak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,129,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+deepavali,lead_up,917,Johor,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+deepavali,lead_up,917,Pahang,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+deepavali,lead_up,918,Johor,0.0,0.0,0.0,zero_all_three,MINYAK MASAK PAKET (PELBAGAI JENAMA),1kg
+deepavali,lead_up,1111,Johor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Kedah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Kelantan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Melaka,0.0,0.0,1.49,mixed,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Negeri Sembilan,0.0,0.0,1.45,mixed,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Pahang,0.0,0.0,1.12,mixed,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Perak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Pulau Pinang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Sabah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Selangor,0.0,0.0,1.12,mixed,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,Terengganu,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1111,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+deepavali,lead_up,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Kelantan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Pahang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Perak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Perlis,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Selangor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,Terengganu,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,W.P. Labuan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1131,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+deepavali,lead_up,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+deepavali,lead_up,1555,Johor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Kedah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Kelantan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Melaka,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Pahang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Perak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Perlis,0.0,-0.73,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Selangor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,Terengganu,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1555,W.P. Putrajaya,0.12,0.0,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+deepavali,lead_up,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Perak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1564,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+deepavali,lead_up,1589,Johor,0.0,0.0,0.0,zero_all_three,GULA PUTIH BERTAPIS KASAR (PELBAGAI JENAMA),1kg
+ramadan_raya,after_raya,1,Johor,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Kedah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Kelantan,0.0,0.3,2.13,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Melaka,0.0,-1.32,0.0,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Negeri Sembilan,0.0,0.0,0.62,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Pahang,0.0,0.0,1.49,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Perak,0.0,0.0,1.02,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Perlis,0.0,0.0,3.0,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Pulau Pinang,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Sarawak,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Selangor,0.0,0.34,1.87,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,Terengganu,0.0,1.13,2.92,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,W.P. Kuala Lumpur,0.0,0.56,2.15,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,1,W.P. Putrajaya,0.0,2.33,1.27,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,after_raya,94,Johor,6.71,-18.18,-10.63,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Kedah,6.92,-27.23,-15.42,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Kelantan,0.0,-14.53,-11.11,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Negeri Sembilan,15.5,-11.43,-7.63,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Pahang,12.08,-10.27,-8.34,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Perak,13.33,-11.11,-11.12,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Perlis,3.13,-15.33,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Pulau Pinang,23.26,-14.85,-11.12,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Sabah,-3.23,-2.13,-24.08,decrease_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Sarawak,-1.35,-18.18,-12.73,decrease_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Selangor,23.09,-16.0,-6.67,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,Terengganu,6.25,-13.43,-9.18,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,94,W.P. Kuala Lumpur,7.31,-14.77,-4.66,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,after_raya,103,Johor,0.0,0.0,10.24,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Kedah,0.0,0.0,5.26,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Negeri Sembilan,0.0,0.0,3.45,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Pahang,0.0,0.0,8.03,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Perak,0.0,0.0,9.35,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Pulau Pinang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Selangor,0.0,0.0,8.82,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,Terengganu,0.0,0.0,6.67,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,103,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,after_raya,114,Johor,-50.0,-40.08,-22.14,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Kedah,-42.86,-34.15,-20.0,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Kelantan,-40.0,-33.33,-25.04,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Melaka,-50.0,-33.9,-25.93,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Negeri Sembilan,-50.0,-46.0,-23.11,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Pahang,-55.59,-46.0,-27.78,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Perak,-49.58,-39.6,-18.75,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Perlis,-38.44,-22.22,-17.71,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Pulau Pinang,-42.86,-37.03,-22.33,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Sabah,0.0,0.0,-21.37,mixed,TOMATO,1kg
+ramadan_raya,after_raya,114,Sarawak,-20.02,-26.61,-25.34,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Selangor,-45.5,-45.19,-17.55,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,Terengganu,-44.54,-43.4,-26.69,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,W.P. Kuala Lumpur,-44.44,-39.8,-15.82,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,114,W.P. Putrajaya,-44.72,-42.17,-23.63,decrease_all_three,TOMATO,1kg
+ramadan_raya,after_raya,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Kelantan,0.0,-8.33,0.0,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Perak,0.0,0.0,-4.37,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Pulau Pinang,0.0,-2.64,-4.37,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Sabah,0.0,0.0,-5.41,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,W.P. Labuan,-7.69,0.0,0.0,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,129,W.P. Putrajaya,0.0,-6.04,-6.69,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,after_raya,1111,Johor,0.0,0.0,-39.47,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Kedah,0.0,-0.63,-43.66,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Kelantan,0.0,0.0,-21.1,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Melaka,0.0,0.0,-38.68,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Negeri Sembilan,0.0,0.0,-45.5,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Pahang,0.0,0.0,-38.68,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Perak,0.0,0.0,-39.47,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Pulau Pinang,0.0,0.0,-38.25,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Selangor,0.0,0.0,-40.54,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,Terengganu,0.0,0.0,-12.37,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1111,W.P. Kuala Lumpur,0.0,0.0,-37.28,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,after_raya,1131,Johor,-6.67,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Kedah,0.0,-8.25,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Kelantan,-10.26,-12.39,-6.67,decrease_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Negeri Sembilan,-7.21,0.0,-6.25,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Pahang,-10.26,0.0,-6.25,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Perak,-12.5,0.0,-6.25,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Perlis,-7.89,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Pulau Pinang,-12.5,-7.04,-2.39,decrease_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Sabah,-1.25,0.0,-5.13,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Sarawak,-6.46,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Selangor,-8.0,0.0,-7.14,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,Terengganu,-8.16,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,W.P. Kuala Lumpur,-10.26,0.0,-3.28,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,W.P. Labuan,-11.38,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1131,W.P. Putrajaya,-12.5,-6.25,-14.96,decrease_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1431,Johor,0.0,-3.72,0.0,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Kedah,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Kelantan,0.0,0.0,4.0,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Melaka,3.91,0.0,-1.25,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Pahang,5.26,0.0,0.0,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Perak,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Pulau Pinang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Selangor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1431,Terengganu,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,after_raya,1555,Johor,2.78,0.0,2.64,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Kedah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Kelantan,0.41,0.0,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Melaka,4.15,-2.56,5.3,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Pahang,0.0,0.0,-1.19,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Perak,0.0,0.0,3.62,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Perlis,0.0,0.0,-2.3,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Pulau Pinang,0.0,0.0,1.73,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Selangor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,Terengganu,0.0,3.04,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1555,W.P. Putrajaya,0.0,0.0,2.44,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,after_raya,1564,Johor,-3.03,-7.73,-6.0,decrease_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Kedah,0.0,-8.26,-5.67,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Kelantan,0.0,-8.33,-0.82,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Melaka,-5.88,-13.33,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Negeri Sembilan,-4.76,-9.26,-11.43,decrease_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Pahang,0.0,-8.3,-7.65,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Perak,0.0,-15.38,-4.35,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Pulau Pinang,0.0,-15.38,-6.67,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Selangor,0.0,-3.85,-0.34,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,Terengganu,0.0,-4.17,-4.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,W.P. Kuala Lumpur,-5.77,-15.4,-4.2,decrease_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,W.P. Labuan,0.0,-0.48,0.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,after_raya,1564,W.P. Putrajaya,-10.11,-12.94,-4.24,decrease_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1,Johor,0.0,6.57,5.0,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Kedah,0.0,4.74,2.17,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Kelantan,0.0,6.4,4.83,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Melaka,0.0,4.71,3.96,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Negeri Sembilan,0.0,3.85,3.62,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Pahang,0.0,6.38,5.27,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Perak,0.0,7.51,2.36,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Perlis,0.0,5.56,5.75,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Pulau Pinang,0.0,4.85,0.0,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Sarawak,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Selangor,0.0,6.97,4.09,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,Terengganu,0.0,5.41,5.0,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,W.P. Kuala Lumpur,0.0,6.05,4.45,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,1,W.P. Putrajaya,0.0,6.79,4.14,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,early_ramadan,94,Johor,1.82,-3.03,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Kedah,0.0,-4.61,-1.52,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Kelantan,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Negeri Sembilan,5.42,-6.67,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Pahang,6.67,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Perak,4.0,-3.75,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Perlis,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Pulau Pinang,0.0,-2.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Sabah,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Sarawak,0.0,0.0,5.01,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Selangor,6.67,0.0,0.0,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,Terengganu,0.0,0.0,-6.67,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,94,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,early_ramadan,103,Johor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Kedah,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Kelantan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Perak,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Pulau Pinang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Selangor,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,Terengganu,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,103,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,early_ramadan,114,Johor,-27.5,-12.66,10.02,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Kedah,-20.02,-12.5,12.18,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Kelantan,-18.66,-6.95,5.46,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Melaka,-28.57,-14.29,10.76,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Negeri Sembilan,-20.27,-15.38,11.63,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Pahang,-22.23,-16.67,12.33,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Perak,-22.53,0.0,6.67,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Perlis,0.0,-2.01,0.08,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Pulau Pinang,-25.32,-15.49,8.58,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Sabah,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Sarawak,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Selangor,-20.0,-16.67,7.88,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,Terengganu,-20.0,-22.22,5.49,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,W.P. Kuala Lumpur,-19.73,-16.22,7.69,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,114,W.P. Putrajaya,-14.43,-18.35,4.9,mixed,TOMATO,1kg
+ramadan_raya,early_ramadan,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Perak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,129,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,early_ramadan,917,Pahang,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+ramadan_raya,early_ramadan,1111,Johor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Kedah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Kelantan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Melaka,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Pahang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Perak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Pulau Pinang,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Selangor,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,Terengganu,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1111,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,early_ramadan,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Kelantan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Pahang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Perak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Perlis,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Selangor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,Terengganu,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,W.P. Labuan,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1131,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Kedah,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Kelantan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Melaka,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Pahang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Perak,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Pulau Pinang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Selangor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1431,Terengganu,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,early_ramadan,1555,Johor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Kedah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Kelantan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Melaka,0.0,-2.87,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Pahang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Perak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Perlis,0.0,-3.52,0.0,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Selangor,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,Terengganu,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1555,W.P. Putrajaya,0.0,0.0,0.64,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,early_ramadan,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Perak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Perlis,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Pulau Pinang,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,early_ramadan,1564,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1,Johor,0.0,2.25,2.28,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Kedah,0.0,0.6,0.96,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Kelantan,0.0,3.85,2.4,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Melaka,0.0,1.61,1.65,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Negeri Sembilan,0.0,0.91,0.43,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Pahang,0.0,2.56,2.38,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Perak,0.0,2.88,0.55,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Perlis,0.0,2.55,6.06,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Pulau Pinang,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Sabah,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Sarawak,0.0,0.0,0.0,zero_all_three,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Selangor,0.0,3.02,2.31,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,Terengganu,0.0,3.15,3.45,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,W.P. Kuala Lumpur,0.0,2.7,2.44,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,1,W.P. Putrajaya,0.0,2.99,5.01,mixed,AYAM BERSIH - STANDARD,1kg
+ramadan_raya,raya_lead_up,94,Johor,6.25,-15.18,-3.49,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Kedah,4.84,-27.79,-12.08,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Kelantan,0.0,-5.56,-6.1,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Negeri Sembilan,14.1,-14.48,-4.17,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Pahang,7.28,-14.29,-3.45,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Perak,12.92,-15.51,-11.12,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Perlis,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Pulau Pinang,16.68,-23.73,-12.23,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Sabah,0.0,0.0,-6.25,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Sarawak,0.0,0.0,0.0,zero_all_three,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Selangor,20.71,-15.38,-6.27,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,Terengganu,0.0,-16.67,-8.14,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,94,W.P. Kuala Lumpur,6.25,-14.31,-8.34,mixed,CILI MERAH - MINYAK,1kg
+ramadan_raya,raya_lead_up,103,Johor,0.0,0.0,2.39,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Kedah,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Kelantan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Pahang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Perak,0.0,0.0,7.42,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Pulau Pinang,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Selangor,0.0,0.0,8.33,mixed,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,Terengganu,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,103,W.P. Putrajaya,0.0,0.0,0.0,zero_all_three,SANTAN KELAPA SEGAR (BIASA),1kg
+ramadan_raya,raya_lead_up,114,Johor,-33.37,-30.43,-9.11,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Kedah,-29.72,-26.87,-9.1,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Kelantan,-32.54,-25.0,-9.23,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Melaka,-33.33,-28.21,-11.32,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Negeri Sembilan,-26.41,-33.39,-7.7,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Pahang,-32.02,-33.33,-14.31,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Perak,-31.18,-28.57,-11.13,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Perlis,-24.15,-20.0,-5.7,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Pulau Pinang,-33.37,-28.57,-8.35,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Sabah,0.0,0.0,0.0,zero_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Sarawak,0.0,0.0,-20.83,mixed,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Selangor,-29.41,-34.15,-9.11,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,Terengganu,-33.33,-33.68,-16.67,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,W.P. Kuala Lumpur,-32.7,-30.0,-7.14,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,114,W.P. Putrajaya,-28.71,-31.58,-7.24,decrease_all_three,TOMATO,1kg
+ramadan_raya,raya_lead_up,129,Johor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Kelantan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Melaka,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Pahang,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Perak,0.0,3.96,0.0,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Perlis,0.0,4.69,0.0,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Pulau Pinang,0.0,0.0,-5.88,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Selangor,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,Terengganu,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,W.P. Kuala Lumpur,0.0,0.0,-1.6,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,W.P. Labuan,0.0,0.0,0.0,zero_all_three,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,129,W.P. Putrajaya,0.0,0.0,-6.2,mixed,BAWANG BESAR KUNING/HOLLAND,1kg
+ramadan_raya,raya_lead_up,917,Pahang,0.0,0.0,0.0,zero_all_three,"TEPUNG GANDUM NGP (BERBUNGKUS, CAP SAUH)",1kg
+ramadan_raya,raya_lead_up,1111,Johor,0.0,0.0,-4.46,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Kedah,0.0,0.0,-22.66,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Kelantan,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Melaka,0.0,0.0,-18.42,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Negeri Sembilan,0.0,0.0,-11.84,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Pahang,0.0,0.0,-6.94,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Perak,0.0,0.0,-25.48,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Pulau Pinang,0.0,0.0,-0.95,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Sabah,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Sarawak,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Selangor,0.0,0.0,-21.93,mixed,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,Terengganu,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1111,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,TELUR AYAM GRED C,30 biji
+ramadan_raya,raya_lead_up,1131,Johor,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Kedah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Kelantan,-12.5,0.0,-5.27,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Melaka,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Negeri Sembilan,0.0,0.0,-6.25,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Pahang,-1.57,0.0,-7.43,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Perak,-6.25,0.0,-8.03,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Perlis,-6.25,0.0,-10.26,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Pulau Pinang,-2.94,0.0,-8.37,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Sabah,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Sarawak,0.0,0.0,0.0,zero_all_three,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Selangor,-6.25,0.0,-8.37,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,Terengganu,-6.25,0.0,0.0,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,W.P. Kuala Lumpur,-6.12,0.0,-8.37,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,W.P. Labuan,0.0,0.0,-3.01,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1131,W.P. Putrajaya,-10.26,0.0,-10.43,mixed,UBI KENTANG IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1431,Johor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Kedah,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Kelantan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Melaka,0.0,0.0,-0.63,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Negeri Sembilan,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Pahang,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Perak,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Pulau Pinang,0.0,0.0,-2.5,mixed,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Selangor,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,Terengganu,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1431,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,DAGING LEMBU TEMPATAN (BAHAGIAN 1 DAGING PAHA (KECUALI BATANG PINANG - TENDERLOIN),1kg
+ramadan_raya,raya_lead_up,1555,Johor,1.53,0.24,1.77,increase_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Kedah,0.0,0.0,3.1,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Kelantan,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Melaka,0.0,-2.56,3.64,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Negeri Sembilan,0.0,2.95,2.7,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Pahang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Perak,0.0,0.0,4.11,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Perlis,0.0,0.0,0.86,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Pulau Pinang,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Sabah,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Sarawak,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Selangor,0.0,0.0,2.51,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,Terengganu,0.0,0.0,4.48,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,W.P. Kuala Lumpur,0.0,0.0,0.0,zero_all_three,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1555,W.P. Putrajaya,0.0,0.0,2.44,mixed,UDANG PUTIH/VANNAMEI (TERNAK) (ANTARA 41 HINGGA 60 EKOR SEKILOGRAM),1kg
+ramadan_raya,raya_lead_up,1564,Johor,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Kedah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Kelantan,0.0,0.0,-2.22,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Melaka,0.0,0.0,-13.33,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Negeri Sembilan,0.0,0.0,-11.55,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Pahang,0.0,0.0,-18.2,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Perak,-1.36,0.0,-15.38,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Perlis,0.0,0.0,-3.07,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Pulau Pinang,-2.94,0.0,-15.38,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Sabah,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Sarawak,0.0,0.0,0.0,zero_all_three,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Selangor,0.0,0.0,-9.53,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,Terengganu,0.0,0.0,-6.0,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,W.P. Kuala Lumpur,-5.83,0.0,-20.86,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,W.P. Labuan,0.0,0.0,-5.17,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
+ramadan_raya,raya_lead_up,1564,W.P. Putrajaya,0.0,0.0,-14.77,mixed,BAWANG PUTIH IMPORT (CHINA),1kg
